@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>1 on reud portfolio</title>
-    <link>https://reud.github.io/publication_types/1/</link>
+    <link>https://aboutme.reud.net/publication_types/1/</link>
     <description>Recent content in 1 on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Mon, 01 Jul 2013 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://reud.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aboutme.reud.net/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://reud.github.io/publication/clothing-search/</link>
+      <link>https://aboutme.reud.net/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/publication/clothing-search/</guid>
+      <guid>https://aboutme.reud.net/publication/clothing-search/</guid>
       <description>More detail can easily be written here using Markdown and $\rm \LaTeX$ math code.</description>
     </item>
     

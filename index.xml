@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>reud portfolio on reud portfolio</title>
-    <link>https://reud.github.io/</link>
+    <link>https://aboutme.reud.net/</link>
     <description>Recent content in reud portfolio on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
@@ -12,46 +12,46 @@
     
     <item>
       <title>DecoyGrenade3</title>
-      <link>https://reud.github.io/project/decoygrenade3/</link>
+      <link>https://aboutme.reud.net/project/decoygrenade3/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/decoygrenade3/</guid>
+      <guid>https://aboutme.reud.net/project/decoygrenade3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Easy Gakusai</title>
-      <link>https://reud.github.io/project/easygakusai/</link>
+      <link>https://aboutme.reud.net/project/easygakusai/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/easygakusai/</guid>
+      <guid>https://aboutme.reud.net/project/easygakusai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweet Haijin</title>
-      <link>https://reud.github.io/project/tweethaijin/</link>
+      <link>https://aboutme.reud.net/project/tweethaijin/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/tweethaijin/</guid>
+      <guid>https://aboutme.reud.net/project/tweethaijin/</guid>
       <description></description>
     </item>
     
     <item>
       <title>UnityChan_VS_Zombie</title>
-      <link>https://reud.github.io/project/unitychan_vs_zombie/</link>
+      <link>https://aboutme.reud.net/project/unitychan_vs_zombie/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/unitychan_vs_zombie/</guid>
+      <guid>https://aboutme.reud.net/project/unitychan_vs_zombie/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Example Page</title>
-      <link>https://reud.github.io/tutorial/example/</link>
+      <link>https://aboutme.reud.net/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tutorial/example/</guid>
+      <guid>https://aboutme.reud.net/tutorial/example/</guid>
       <description>
 
 &lt;p&gt;In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:&lt;/p&gt;
@@ -68,10 +68,10 @@
     
     <item>
       <title>Example Talk</title>
-      <link>https://reud.github.io/talk/example/</link>
+      <link>https://aboutme.reud.net/talk/example/</link>
       <pubDate>Sun, 01 Jan 2017 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/talk/example/</guid>
+      <guid>https://aboutme.reud.net/talk/example/</guid>
       <description>&lt;div class=&#34;alert alert-note&#34;&gt;
   &lt;p&gt;Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.&lt;/p&gt;
 
@@ -92,19 +92,19 @@
     
     <item>
       <title>KBIS LINEBOT</title>
-      <link>https://reud.github.io/project/kbis_linebot/</link>
+      <link>https://aboutme.reud.net/project/kbis_linebot/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/kbis_linebot/</guid>
+      <guid>https://aboutme.reud.net/project/kbis_linebot/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Academic: the website designer for Hugo</title>
-      <link>https://reud.github.io/post/getting-started/</link>
+      <link>https://aboutme.reud.net/post/getting-started/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/post/getting-started/</guid>
+      <guid>https://aboutme.reud.net/post/getting-started/</guid>
       <description>
 
 &lt;p&gt;&lt;strong&gt;Academic&lt;/strong&gt; makes it easy to create a beautiful website for free using Markdown. Customize anything on your site with widgets, themes, and language packs.&lt;/p&gt;
@@ -174,8 +174,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-1950s.png&#34; data-caption=&#34;1950s&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-1950s.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -200,8 +200,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-apogee.png&#34; data-caption=&#34;Apogee&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-apogee.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -226,8 +226,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-coffee-playfair.png&#34; data-caption=&#34;Coffee theme with Playfair font&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-coffee-playfair.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -252,8 +252,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-cupcake.png&#34; data-caption=&#34;Cupcake&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-cupcake.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -278,8 +278,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-dark.png&#34; data-caption=&#34;Dark&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-dark.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -304,8 +304,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-default.png&#34; data-caption=&#34;Default&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-default.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -330,8 +330,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-forest.png&#34; data-caption=&#34;Forest&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-forest.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
     
@@ -356,8 +356,8 @@
       
     
     
-  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://reud.github.io/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
-  &lt;img src=&#34;https://reud.github.io/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
+  &lt;a data-fancybox=&#34;gallery-gallery&#34; href=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-ocean.png&#34; data-caption=&#34;Ocean&#34;&gt;
+  &lt;img src=&#34;https://aboutme.reud.net/post/getting-started/gallery/theme-ocean.png&#34; alt=&#34;&#34;&gt;
   &lt;/a&gt;
   
 
@@ -473,30 +473,30 @@ git submodule update --init --recursive
     
     <item>
       <title>A Person Re-Identification System For Mobile Devices</title>
-      <link>https://reud.github.io/publication/person-re-id/</link>
+      <link>https://aboutme.reud.net/publication/person-re-id/</link>
       <pubDate>Tue, 01 Sep 2015 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/publication/person-re-id/</guid>
+      <guid>https://aboutme.reud.net/publication/person-re-id/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Mobile visual clothing search</title>
-      <link>https://reud.github.io/publication/clothing-search/</link>
+      <link>https://aboutme.reud.net/publication/clothing-search/</link>
       <pubDate>Mon, 01 Jul 2013 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/publication/clothing-search/</guid>
+      <guid>https://aboutme.reud.net/publication/clothing-search/</guid>
       <description>&lt;p&gt;More detail can easily be written here using &lt;em&gt;Markdown&lt;/em&gt; and $\rm \LaTeX$ math code.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Slides</title>
-      <link>https://reud.github.io/slides/example-slides/</link>
+      <link>https://aboutme.reud.net/slides/example-slides/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://reud.github.io/slides/example-slides/</guid>
+      <guid>https://aboutme.reud.net/slides/example-slides/</guid>
       <description>
 
 &lt;h1 id=&#34;welcome-to-slides&#34;&gt;Welcome to Slides&lt;/h1&gt;

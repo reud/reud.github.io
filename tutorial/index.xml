@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Overview on reud portfolio</title>
-    <link>https://reud.github.io/tutorial/</link>
+    <link>https://aboutme.reud.net/tutorial/</link>
     <description>Recent content in Overview on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Sun, 09 Sep 2018 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://reud.github.io/tutorial/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aboutme.reud.net/tutorial/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Example Page</title>
-      <link>https://reud.github.io/tutorial/example/</link>
+      <link>https://aboutme.reud.net/tutorial/example/</link>
       <pubDate>Sun, 09 Sep 2018 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tutorial/example/</guid>
+      <guid>https://aboutme.reud.net/tutorial/example/</guid>
       <description>In this tutorial, I&amp;rsquo;ll share my top 10 tips for getting started with Academic:
 Tip 1 &amp;hellip;
 Tip 2 &amp;hellip;</description>

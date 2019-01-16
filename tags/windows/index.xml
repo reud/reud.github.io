@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Windows on reud portfolio</title>
-    <link>https://reud.github.io/tags/windows/</link>
+    <link>https://aboutme.reud.net/tags/windows/</link>
     <description>Recent content in Windows on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://reud.github.io/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aboutme.reud.net/tags/windows/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Easy Gakusai</title>
-      <link>https://reud.github.io/project/easygakusai/</link>
+      <link>https://aboutme.reud.net/project/easygakusai/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/easygakusai/</guid>
+      <guid>https://aboutme.reud.net/project/easygakusai/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tweet Haijin</title>
-      <link>https://reud.github.io/project/tweethaijin/</link>
+      <link>https://aboutme.reud.net/project/tweethaijin/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/tweethaijin/</guid>
+      <guid>https://aboutme.reud.net/project/tweethaijin/</guid>
       <description></description>
     </item>
     

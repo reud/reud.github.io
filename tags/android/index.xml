@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Android on reud portfolio</title>
-    <link>https://reud.github.io/tags/android/</link>
+    <link>https://aboutme.reud.net/tags/android/</link>
     <description>Recent content in Android on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://reud.github.io/tags/android/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aboutme.reud.net/tags/android/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>DecoyGrenade3</title>
-      <link>https://reud.github.io/project/decoygrenade3/</link>
+      <link>https://aboutme.reud.net/project/decoygrenade3/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/project/decoygrenade3/</guid>
+      <guid>https://aboutme.reud.net/project/decoygrenade3/</guid>
       <description></description>
     </item>
     

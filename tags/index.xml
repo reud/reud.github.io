@@ -2,85 +2,94 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on reud portfolio</title>
-    <link>https://reud.github.io/tags/</link>
+    <link>https://aboutme.reud.net/tags/</link>
     <description>Recent content in Tags on reud portfolio</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; 2018</copyright>
     <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0900</lastBuildDate>
     
-	<atom:link href="https://reud.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://aboutme.reud.net/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Academic</title>
-      <link>https://reud.github.io/tags/academic/</link>
+      <link>https://aboutme.reud.net/tags/academic/</link>
       <pubDate>Wed, 20 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/academic/</guid>
+      <guid>https://aboutme.reud.net/tags/academic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Android</title>
-      <link>https://reud.github.io/tags/android/</link>
+      <link>https://aboutme.reud.net/tags/android/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/android/</guid>
+      <guid>https://aboutme.reud.net/tags/android/</guid>
       <description></description>
     </item>
     
     <item>
       <title>C#</title>
-      <link>https://reud.github.io/tags/c/</link>
+      <link>https://aboutme.reud.net/tags/c/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/c/</guid>
+      <guid>https://aboutme.reud.net/tags/c/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Heroku</title>
-      <link>https://reud.github.io/tags/heroku/</link>
+      <link>https://aboutme.reud.net/tags/heroku/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/heroku/</guid>
+      <guid>https://aboutme.reud.net/tags/heroku/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Java</title>
-      <link>https://reud.github.io/tags/java/</link>
+      <link>https://aboutme.reud.net/tags/java/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/java/</guid>
+      <guid>https://aboutme.reud.net/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://aboutme.reud.net/tags/python/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://aboutme.reud.net/tags/python/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unity</title>
-      <link>https://reud.github.io/tags/unity/</link>
+      <link>https://aboutme.reud.net/tags/unity/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/unity/</guid>
+      <guid>https://aboutme.reud.net/tags/unity/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Windows</title>
-      <link>https://reud.github.io/tags/windows/</link>
+      <link>https://aboutme.reud.net/tags/windows/</link>
       <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/windows/</guid>
+      <guid>https://aboutme.reud.net/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
       <title>flask</title>
-      <link>https://reud.github.io/tags/flask/</link>
+      <link>https://aboutme.reud.net/tags/flask/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
       
-      <guid>https://reud.github.io/tags/flask/</guid>
+      <guid>https://aboutme.reud.net/tags/flask/</guid>
       <description></description>
     </item>
     
