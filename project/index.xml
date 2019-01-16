@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on reud portfolio</title>
+    <link>https://reud.github.io/project/</link>
+    <description>Recent content in Projects on reud portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 16 Jan 2019 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://reud.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>DecoyGrenade3</title>
+      <link>https://reud.github.io/project/decoygrenade3/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/decoygrenade3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Easy Gakusai</title>
+      <link>https://reud.github.io/project/easygakusai/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/easygakusai/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tweet Haijin</title>
+      <link>https://reud.github.io/project/tweethaijin/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/tweethaijin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UnityChan_VS_Zombie</title>
+      <link>https://reud.github.io/project/unitychan_vs_zombie/</link>
+      <pubDate>Wed, 16 Jan 2019 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/unitychan_vs_zombie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>KBIS LINEBOT</title>
+      <link>https://reud.github.io/project/kbis_linebot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/kbis_linebot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

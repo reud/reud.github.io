@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Heroku on reud portfolio</title>
+    <link>https://reud.github.io/tags/heroku/</link>
+    <description>Recent content in Heroku on reud portfolio</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0900</lastBuildDate>
+    
+	<atom:link href="https://reud.github.io/tags/heroku/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>KBIS LINEBOT</title>
+      <link>https://reud.github.io/project/kbis_linebot/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0900</pubDate>
+      
+      <guid>https://reud.github.io/project/kbis_linebot/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
